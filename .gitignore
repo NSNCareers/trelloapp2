@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+coverage
+.nyc_output
+.vscode
+cypress/screenshots
+cypress/videos
+cypress/downloads
+backend/data/uploaded/*
+
+!/**/.gitkeep
