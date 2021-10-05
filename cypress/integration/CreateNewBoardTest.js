@@ -17,7 +17,6 @@ describe('Create new board Test', function(){
     
     before(function(){
         cy.visit(Cypress.env('baseUrl'));
-        
     })
 
     it('Verify Board successfully Created',function() {

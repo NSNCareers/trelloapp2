@@ -3,7 +3,7 @@
     {
       "name": "My New Test Board",
       "user": 0,
-      "id": 66579002854,
+      "id": 3040478287,
       "starred": false,
       "created": "2021-10-05"
     }
@@ -19,10 +19,24 @@
   ],
   "lists": [
     {
-      "name": "My New List",
-      "boardId": 66579002854,
+      "name": "List One",
+      "boardId": 3040478287,
       "order": 0,
-      "id": 77468280651,
+      "id": 47207387448,
+      "created": "2021-10-05"
+    },
+    {
+      "name": "List two",
+      "boardId": 3040478287,
+      "order": 1,
+      "id": 80979149341,
+      "created": "2021-10-05"
+    },
+    {
+      "name": "List three",
+      "boardId": 3040478287,
+      "order": 2,
+      "id": 68527174866,
       "created": "2021-10-05"
     }
   ]

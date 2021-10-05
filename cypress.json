@@ -1,5 +1,6 @@
 {
   "integrationFolder":"cypress/integration",
+  "requestTimeout": 9000,
   "fixturesFolder":"cypress/fixtures",
   "env": {
     "baseUrl": "http://localhost:3000",
