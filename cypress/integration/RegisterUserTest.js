@@ -7,8 +7,8 @@ const passwordField = "input[name='password']";
 const sendWelcomeEmailCheckBox = "label[for='welcomeEmail']";
 const createAccountButton = "div>button[class*='full']";
 const loginOutMessage = "div[class*='h-14']>div";
-const logoutButton = "div>div>div[class*='self']";
-let jsonData;
+const logoutButton = "div>div>div[class*='self-center']";
+let randomString = Math.random().toString(36).substr(2, 5);
 
 describe('Register new user Test', function(){
     
@@ -17,14 +17,13 @@ describe('Register new user Test', function(){
         cy.fixture('config').then(function (testdata) {
             this.testdata = testdata
         })
-        cy.visit(Cypress.env('baseUrl'));
         cy.get(loginButton).click();
         cy.get(signUpLink).click();
         
     })
 
     it('Verify User successfully logged in',function() {
-        cy.get(emailField).type(this.testdata.email);
+        cy.get(emailField).type(randomString + this.testdata.email);
         cy.get(passwordField).type(this.testdata.password);
         cy.get(sendWelcomeEmailCheckBox).click();
         cy.get(createAccountButton).click();

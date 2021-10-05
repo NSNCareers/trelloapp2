@@ -1,5 +1,34 @@
 {
-  "boards": [],
+  "boards": [
+    {
+      "name": "My New Test Board",
+      "user": 6,
+      "id": 73759986160,
+      "starred": false,
+      "created": "2021-10-05"
+    },
+    {
+      "name": "My New Test Board",
+      "user": 0,
+      "id": 11647484734,
+      "starred": false,
+      "created": "2021-10-05"
+    },
+    {
+      "name": "My New Test Board",
+      "user": 0,
+      "id": 22388899500,
+      "starred": false,
+      "created": "2021-10-05"
+    },
+    {
+      "name": "My New Test Board",
+      "user": 0,
+      "id": 76772607738,
+      "starred": false,
+      "created": "2021-10-05"
+    }
+  ],
   "cards": [],
   "users": [
     {
@@ -61,7 +90,78 @@
       "password": "$2a$10$UTfIPMS20viH4Y1RoqyeSOxNVlQzNLIPJdu34fQm3WIpxwif7KFBW",
       "welcomeEmail": false,
       "id": 10
+    },
+    {
+      "email": "elvis@outlook.com",
+      "password": "$2a$10$HLUVdSLj4S0JR3qgDHesteizZZv5EN78P7FFbUMKJl2HsuVIU4GnW",
+      "welcomeEmail": false,
+      "id": 11
+    },
+    {
+      "email": "gr8kcelvis@outlook.com",
+      "password": "$2a$10$5Gq02aZmRnhcvH1nNirRf.WnATgHXGFemdE0DjvsJGb6fZe5jNOci",
+      "welcomeEmail": false,
+      "id": 12
+    },
+    {
+      "email": "58qf4elvis@outlook.com",
+      "password": "$2a$10$RBxY5XzF1vzht6YArv6qn.Eqa1tS1L3HlSy5qkIbHenlmPark50ri",
+      "welcomeEmail": false,
+      "id": 13
+    },
+    {
+      "email": "jah02elvis@outlook.com",
+      "password": "$2a$10$7hAo45b9524.54z/zznDbupkvwNqq4KhQnE2ylB2kZuOCCcuazBMO",
+      "welcomeEmail": false,
+      "id": 14
+    },
+    {
+      "email": "bxjcuelvis@outlook.com",
+      "password": "$2a$10$JcX7OvGBZ0kV6Sz3ySs22OqnYXIUUeT3yhK/Aft.wbGqW7E/N7i1O",
+      "welcomeEmail": false,
+      "id": 15
+    },
+    {
+      "email": "h9ni1elvis@outlook.com",
+      "password": "$2a$10$/a9hNIuukw9cpPP8kgpCD.muCq2Ps7lofEsiDMVcUK3q2dO2oMDOi",
+      "welcomeEmail": false,
+      "id": 16
+    },
+    {
+      "email": "o0phvelvis@outlook.com",
+      "password": "$2a$10$mLIhV.IhYnRy3P2yKOrukuZ58FK1DNyuLlqGzlPdVQJOY27yuYOci",
+      "welcomeEmail": false,
+      "id": 17
     }
   ],
-  "lists": []
+  "lists": [
+    {
+      "name": "my new list",
+      "boardId": 73759986160,
+      "order": 0,
+      "id": 15612952004,
+      "created": "2021-10-05"
+    },
+    {
+      "name": "My New List",
+      "boardId": 11647484734,
+      "order": 0,
+      "id": 60852024353,
+      "created": "2021-10-05"
+    },
+    {
+      "name": "My New List",
+      "boardId": 22388899500,
+      "order": 0,
+      "id": 75121720478,
+      "created": "2021-10-05"
+    },
+    {
+      "name": "My New List",
+      "boardId": 76772607738,
+      "order": 0,
+      "id": 67480113977,
+      "created": "2021-10-05"
+    }
+  ]
 }
