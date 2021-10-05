@@ -2,29 +2,8 @@
   "boards": [
     {
       "name": "My New Test Board",
-      "user": 6,
-      "id": 73759986160,
-      "starred": false,
-      "created": "2021-10-05"
-    },
-    {
-      "name": "My New Test Board",
       "user": 0,
-      "id": 11647484734,
-      "starred": false,
-      "created": "2021-10-05"
-    },
-    {
-      "name": "My New Test Board",
-      "user": 0,
-      "id": 22388899500,
-      "starred": false,
-      "created": "2021-10-05"
-    },
-    {
-      "name": "My New Test Board",
-      "user": 0,
-      "id": 76772607738,
+      "id": 66579002854,
       "starred": false,
       "created": "2021-10-05"
     }
@@ -32,135 +11,18 @@
   "cards": [],
   "users": [
     {
-      "email": "ajangngwesse88@gmail.com",
-      "password": "$2a$10$vduDEPG6OOR2/F11OtAZjeWdI1P3JPblHer6q9Xe5euA8a7qpnLJG",
-      "welcomeEmail": true,
+      "email": "v0zy6elvis@outlook.com",
+      "password": "$2a$10$ErDw00M3tGPtMgZ8VUQBbOP2UJKhHvnEFhIyx2BCvjEGJvMUhIPhy",
+      "welcomeEmail": false,
       "id": 1
-    },
-    {
-      "email": "ajangngwesse848@gmail.com",
-      "password": "$2a$10$ANRjtQaQUCJxeyZUVWiXR.tABicTvo6KHKWkf0PbKFCRhpVdzH9pO",
-      "welcomeEmail": true,
-      "id": 2
-    },
-    {
-      "email": "ajangngwesse84ff8@gmail.com",
-      "password": "$2a$10$FfmBNNcKS31B3xhDC9L6sOwBmOMWhI7XuQSF8ZQPJmoB2TAsrUPDu",
-      "welcomeEmail": true,
-      "id": 3
-    },
-    {
-      "email": "ngwesseelvis@outlook.com",
-      "password": "$2a$10$vVdUsLSEAg96lvTt7u1dbOQBr5bizNQ5uLKJx7mbKvY/VVvkOL6mq",
-      "welcomeEmail": false,
-      "id": 4
-    },
-    {
-      "email": "ngwesseelvis22@outlook.com",
-      "password": "$2a$10$QspACJHNmrIB7B68PETU5uKAQ8ZPD0kBPb5EjhrfGeIc47HAPRswG",
-      "welcomeEmail": false,
-      "id": 5
-    },
-    {
-      "email": "ajangngwewwwwwsse@outlook.com",
-      "password": "$2a$10$INvsmHT7ytvT7s.AFWhMZuZM4IdwB.QJgtO77val/9mOBwBYreia6",
-      "welcomeEmail": false,
-      "id": 6
-    },
-    {
-      "email": "ngwesseelvis23@outlook.com",
-      "password": "$2a$10$86Ko64x5vNaRnByJsL.5nOKImh3usJA5MWiTQdFsnVYyBqN/J/kgC",
-      "welcomeEmail": false,
-      "id": 7
-    },
-    {
-      "email": "ngwesseelvis24@outlook.com",
-      "password": "$2a$10$wib5TGlQtg7DOn6O0a3GPOYdgtF.IGX7PVKJR9NR0ywPldXrbiuLy",
-      "welcomeEmail": false,
-      "id": 8
-    },
-    {
-      "email": "ngwesseelvis25@outlook.com",
-      "password": "$2a$10$A5p.rw83Su9E33T1XfS6C.7FgVQ0AsqNhRSynoSuBvus2O2.QXobu",
-      "welcomeEmail": false,
-      "id": 9
-    },
-    {
-      "email": "ngwesseelvis1@outlook.com",
-      "password": "$2a$10$UTfIPMS20viH4Y1RoqyeSOxNVlQzNLIPJdu34fQm3WIpxwif7KFBW",
-      "welcomeEmail": false,
-      "id": 10
-    },
-    {
-      "email": "elvis@outlook.com",
-      "password": "$2a$10$HLUVdSLj4S0JR3qgDHesteizZZv5EN78P7FFbUMKJl2HsuVIU4GnW",
-      "welcomeEmail": false,
-      "id": 11
-    },
-    {
-      "email": "gr8kcelvis@outlook.com",
-      "password": "$2a$10$5Gq02aZmRnhcvH1nNirRf.WnATgHXGFemdE0DjvsJGb6fZe5jNOci",
-      "welcomeEmail": false,
-      "id": 12
-    },
-    {
-      "email": "58qf4elvis@outlook.com",
-      "password": "$2a$10$RBxY5XzF1vzht6YArv6qn.Eqa1tS1L3HlSy5qkIbHenlmPark50ri",
-      "welcomeEmail": false,
-      "id": 13
-    },
-    {
-      "email": "jah02elvis@outlook.com",
-      "password": "$2a$10$7hAo45b9524.54z/zznDbupkvwNqq4KhQnE2ylB2kZuOCCcuazBMO",
-      "welcomeEmail": false,
-      "id": 14
-    },
-    {
-      "email": "bxjcuelvis@outlook.com",
-      "password": "$2a$10$JcX7OvGBZ0kV6Sz3ySs22OqnYXIUUeT3yhK/Aft.wbGqW7E/N7i1O",
-      "welcomeEmail": false,
-      "id": 15
-    },
-    {
-      "email": "h9ni1elvis@outlook.com",
-      "password": "$2a$10$/a9hNIuukw9cpPP8kgpCD.muCq2Ps7lofEsiDMVcUK3q2dO2oMDOi",
-      "welcomeEmail": false,
-      "id": 16
-    },
-    {
-      "email": "o0phvelvis@outlook.com",
-      "password": "$2a$10$mLIhV.IhYnRy3P2yKOrukuZ58FK1DNyuLlqGzlPdVQJOY27yuYOci",
-      "welcomeEmail": false,
-      "id": 17
     }
   ],
   "lists": [
     {
-      "name": "my new list",
-      "boardId": 73759986160,
-      "order": 0,
-      "id": 15612952004,
-      "created": "2021-10-05"
-    },
-    {
       "name": "My New List",
-      "boardId": 11647484734,
+      "boardId": 66579002854,
       "order": 0,
-      "id": 60852024353,
-      "created": "2021-10-05"
-    },
-    {
-      "name": "My New List",
-      "boardId": 22388899500,
-      "order": 0,
-      "id": 75121720478,
-      "created": "2021-10-05"
-    },
-    {
-      "name": "My New List",
-      "boardId": 76772607738,
-      "order": 0,
-      "id": 67480113977,
+      "id": 77468280651,
       "created": "2021-10-05"
     }
   ]
