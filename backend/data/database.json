@@ -1,6 +1,67 @@
 {
   "boards": [],
   "cards": [],
-  "users": [],
+  "users": [
+    {
+      "email": "ajangngwesse88@gmail.com",
+      "password": "$2a$10$vduDEPG6OOR2/F11OtAZjeWdI1P3JPblHer6q9Xe5euA8a7qpnLJG",
+      "welcomeEmail": true,
+      "id": 1
+    },
+    {
+      "email": "ajangngwesse848@gmail.com",
+      "password": "$2a$10$ANRjtQaQUCJxeyZUVWiXR.tABicTvo6KHKWkf0PbKFCRhpVdzH9pO",
+      "welcomeEmail": true,
+      "id": 2
+    },
+    {
+      "email": "ajangngwesse84ff8@gmail.com",
+      "password": "$2a$10$FfmBNNcKS31B3xhDC9L6sOwBmOMWhI7XuQSF8ZQPJmoB2TAsrUPDu",
+      "welcomeEmail": true,
+      "id": 3
+    },
+    {
+      "email": "ngwesseelvis@outlook.com",
+      "password": "$2a$10$vVdUsLSEAg96lvTt7u1dbOQBr5bizNQ5uLKJx7mbKvY/VVvkOL6mq",
+      "welcomeEmail": false,
+      "id": 4
+    },
+    {
+      "email": "ngwesseelvis22@outlook.com",
+      "password": "$2a$10$QspACJHNmrIB7B68PETU5uKAQ8ZPD0kBPb5EjhrfGeIc47HAPRswG",
+      "welcomeEmail": false,
+      "id": 5
+    },
+    {
+      "email": "ajangngwewwwwwsse@outlook.com",
+      "password": "$2a$10$INvsmHT7ytvT7s.AFWhMZuZM4IdwB.QJgtO77val/9mOBwBYreia6",
+      "welcomeEmail": false,
+      "id": 6
+    },
+    {
+      "email": "ngwesseelvis23@outlook.com",
+      "password": "$2a$10$86Ko64x5vNaRnByJsL.5nOKImh3usJA5MWiTQdFsnVYyBqN/J/kgC",
+      "welcomeEmail": false,
+      "id": 7
+    },
+    {
+      "email": "ngwesseelvis24@outlook.com",
+      "password": "$2a$10$wib5TGlQtg7DOn6O0a3GPOYdgtF.IGX7PVKJR9NR0ywPldXrbiuLy",
+      "welcomeEmail": false,
+      "id": 8
+    },
+    {
+      "email": "ngwesseelvis25@outlook.com",
+      "password": "$2a$10$A5p.rw83Su9E33T1XfS6C.7FgVQ0AsqNhRSynoSuBvus2O2.QXobu",
+      "welcomeEmail": false,
+      "id": 9
+    },
+    {
+      "email": "ngwesseelvis1@outlook.com",
+      "password": "$2a$10$UTfIPMS20viH4Y1RoqyeSOxNVlQzNLIPJdu34fQm3WIpxwif7KFBW",
+      "welcomeEmail": false,
+      "id": 10
+    }
+  ],
   "lists": []
 }
